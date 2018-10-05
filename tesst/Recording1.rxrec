@@ -29,6 +29,18 @@ rxversion="8.2">
 	<variables>
 	</variables>
 	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="hi"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="cfa7923a-d9b2-4cb0-8b8d-f7d1938cf90b">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="9c3c4bf4-f6e6-4904-83b0-722eb3cd49d2"

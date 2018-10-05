@@ -79,6 +79,8 @@ namespace tesst
 
             Init();
 
+            Report.Log(ReportLevel.Info, "User", "hi", new RecordItemIndex(0));
+            
         }
 
 #region Image Feature Data
